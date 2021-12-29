@@ -1,0 +1,77 @@
+
+*{
+    box-sizing:border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+}
+#navhead{
+    background-color: rgb(114, 235, 144); 
+    }
+h1{
+    text-align: center;
+    font-size: 1.75em;
+    margin-top: 25px;
+}
+h3{
+    font-size: 1.35em;
+  
+}
+h6 a{
+    color: blue;
+    text-decoration: none;
+}
+#chicken{
+    background-color:#f27c1f ;
+}
+#chickendesc{
+    background-color:#eb9654 ;
+    text-align: center;
+}
+
+#beefdesc{
+    background-color:#235587;
+    text-align: center;
+}
+#sushi{
+    background-color: #5db375;
+}
+#sushidesc{
+    background-color: #83d69a;
+    text-align: center;
+}
+
+.div{
+    border: 1px solid black;
+    margin-top: 1vw;
+}
+p{
+width: 90%;
+height: 90%;
+margin-left: auto;
+margin-right: auto;
+clear: right;
+text-align: justify;
+font-size: 1.25em;
+margin-bottom: 3%;
+}
+
+#item{
+    margin: auto;
+}
+a{
+    text-align: center;
+    font-size: 1.15em;
+    color: rgb(94, 93, 93);
+    text-decoration: none;
+}
+ul :hover{
+    background-color: rgb(124, 236, 152);
+    font-size: 1.2em;
+    color: rgb(43, 43, 43);
+}
+#navigationbar{
+    background-color: rgb(150, 233, 171);
+}
+.navbar{
+    color: rgb(110, 108, 108);
+}
